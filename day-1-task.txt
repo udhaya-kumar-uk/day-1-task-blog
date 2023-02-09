@@ -1,0 +1,34 @@
+//////////////////////////////////////////////
+\\\\ Difference between HTTP1.1 vs HTTP2//////
+/////////////////////////////////////////////
+HTTP-HYPER TEXT TRANSFER PROTOCOL
+its used client to server communication
+HTTP 1:
+*http:1 created 1997    
+*its work text format
+*the http protocol did not use header files and only 
+transmitted plain html files.
+*only suport get method
+*http1 loads a single request for every tcp connection and network delay.
+HTTP 2:
+*http:2 recreated 2015
+*its work binary format
+* using multiplexing and server push
+*based on googles SPDY
+*this method is much faster and more reliable than http1 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\/////objects//////////
+/////////////////////////////
+
+*its most important data type for modern javascript
+*object is a non primitive data type (copy by reference)
+*all the data types are store object inside
+*object can contain many values
+*the object including key and value pairs
+*js object is container for named values
+*object properties can usually be changed,added,and deleted.
+*syntax
+object name{
+      object property:key 
+}
+*N.... NUMBER of property saving in object.anything can be saved.
